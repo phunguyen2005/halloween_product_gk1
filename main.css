@@ -1,0 +1,29 @@
+#wrapper{
+    margin:auto;
+    padding: auto;
+}
+#nav li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-style: italic;
+}
+body{
+    background-image: url(./stretched-1920-1080-552086.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+#content{
+    padding-top: 2%;
+    width: fit-content;
+}
+.card{
+    opacity: 0.8;
+}
+
+.container1 img{
+    width: 150px;
+}
+
